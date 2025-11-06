@@ -28,7 +28,7 @@
         <mxCell id="xrhmb7KN71Z4RXKwkp0e-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;RFQ&amp;nbsp;&lt;br&gt;(Request For Quotation)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;报价请求/询价单&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xrhmb7KN71Z4RXKwkp0e-3" vertex="1">
           <mxGeometry x="360.00119241192414" y="210" width="117.7235772357724" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H_zDCZ0FOpfqhMuuw2Mc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="xrhmb7KN71Z4RXKwkp0e-3" target="xrhmb7KN71Z4RXKwkp0e-8" edge="1" source="xrhmb7KN71Z4RXKwkp0e-28">
+        <mxCell id="H_zDCZ0FOpfqhMuuw2Mc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="xrhmb7KN71Z4RXKwkp0e-3" source="xrhmb7KN71Z4RXKwkp0e-28" target="xrhmb7KN71Z4RXKwkp0e-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="231" as="sourcePoint" />
           </mxGeometry>
@@ -319,8 +319,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="1490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1051" y="1610" />
-              <mxPoint x="1774" y="1610" />
+              <mxPoint x="1050" y="1590" />
+              <mxPoint x="1774" y="1590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -484,7 +484,7 @@
         <mxCell id="H_zDCZ0FOpfqhMuuw2Mc-109" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Note:&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Throughout the entire procurement period, clarification with MMEI (in case of any issues) needs to be carried out at all times.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2.&amp;nbsp;When there is a change in the requirements for the items, it is also necessary to inform the bidders immediately.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3.&amp;nbsp;When it is necessary to exchange documents with bidders, it must go through the corresponding purchaser of the SCM department.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;labelBackgroundColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="40" y="2080" width="1080" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="RGdvoeSrZ0DQ0G6VTbQq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H_zDCZ0FOpfqhMuuw2Mc-38" target="xrhmb7KN71Z4RXKwkp0e-72">
+        <mxCell id="RGdvoeSrZ0DQ0G6VTbQq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H_zDCZ0FOpfqhMuuw2Mc-38" target="xrhmb7KN71Z4RXKwkp0e-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2593" y="1680" as="targetPoint" />
             <Array as="points">
@@ -494,12 +494,12 @@
             <mxPoint x="3050" y="1295" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGdvoeSrZ0DQ0G6VTbQq-2" value="Have comments&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGdvoeSrZ0DQ0G6VTbQq-1">
+        <mxCell id="RGdvoeSrZ0DQ0G6VTbQq-2" value="Have comments&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RGdvoeSrZ0DQ0G6VTbQq-1" vertex="1" connectable="0">
           <mxGeometry x="-0.4569" relative="1" as="geometry">
             <mxPoint x="167" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGdvoeSrZ0DQ0G6VTbQq-3" value="Improve base on MMEI comments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="RGdvoeSrZ0DQ0G6VTbQq-1">
+        <mxCell id="RGdvoeSrZ0DQ0G6VTbQq-3" value="Improve base on MMEI comments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" parent="RGdvoeSrZ0DQ0G6VTbQq-1" vertex="1" connectable="0">
           <mxGeometry x="0.9061" y="-1" relative="1" as="geometry">
             <mxPoint x="8" y="-78" as="offset" />
           </mxGeometry>
